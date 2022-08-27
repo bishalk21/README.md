@@ -1,10 +1,7 @@
-# <img width="150%" height="250vh" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" />
+# <img width="150%" height="250vh" src="" />
 ## 👋 Hello i'm Bishal
 
-Motivated front-end developer who brings a creative and solution-driven mindset to every team and
-project. passionate about writing clean code that is reusable and follows DRY principles. design interface
-that incorporates accessibility and user-friendliness. approach all new projects with the priority of
-simplicity and functionality.
+Motivated front-end developer w
 
 ---
 
